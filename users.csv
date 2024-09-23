@@ -1,0 +1,9 @@
+﻿Username, Password, Prenom, NomFamille, ModifierMdP, Active, Groupe
+user1, =Sec4200, Utilisaetur, numéro un, oui, oui, GroupeA
+user2, =Sec4200, Utilisaetur, numéro deux, non, oui, GroupeA
+user3, =Sec4200, Utilisaetur, numéro trois, oui, oui, GroupeB
+user4, =Sec4200, Utilisaetur, numéro quatre, non, oui, GroupeH
+user5, =Sec4200, Utilisaetur, numéro cinq, oui, oui, GroupeC
+user6, =Sec4200, Utilisaetur, numéro six, non, oui, GroupeC
+user7, =Sec4200, Utilisaetur, numéro sept, oui, oui, GroupeD
+user8, =Sec4200, Utilisaetur, numéro huit, non, oui, GroupeF

@@ -1,0 +1,9 @@
+Nom; Description; Parent
+Direction; OU pour les membres de la direction; Domain
+Production; OU pour le département de production; Domain
+ProductionJour; OU pour le département de production (quart de jour); Production
+ProductionNuit; OU pour le département de production (quart de nuit); Production
+FinancesComptabilite; OU pour le département de Finances et comptabilite; Domain
+Ventes; OU pour le département de ventes; Domain
+VentesInternationales; OU pour la sous-département de ventes Ã  internationales; Ventes
+TI; OU pour le département de TI; Domain
